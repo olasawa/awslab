@@ -5,8 +5,9 @@
     "start": "node app.js"
   },
   "dependencies": {
+    "async": "^0.2.10",
+    "aws-sdk": "^2.1277.0",
     "express": ">=3.11.0",
-    "aws-sdk": "~2.0.0-rc9",
-    "async": "^0.2.10"
+    "uuid": "^8.0.0"
   }
 }
